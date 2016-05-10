@@ -41,3 +41,6 @@ function get_dates_month_day($day_of_month, $from_date, $to_date)
 * @return array
 
 function get_dates_month_week_day($week_day_collection, $repeat, $from_date, $to_date) 
+
+
+Note: This library may need improvements and changes, feel free to suggest the changes. The functions were develop while working on one of our php webappliction development project at www.alphansotech.com
